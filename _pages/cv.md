@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Artificial Intelligence, Hong Kong University of Science and Technology (Guangzhou), 2025-2028 (expected)
+* M.S. in Computer Science, Shenzhen University, 2022-2025
+* B.S. in Computer Elite Program, Zhejiang University of Technology, 2018-2022
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -30,16 +30,13 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
-Skills
+Skills & Hobbies
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: C/C++, Python, JavaScript, Go.
+* Framework: PyTorch, Vue, UE5, Unity.
+* Sports: Badminton, Swimming, Basketball.
 
 Publications
 ======
@@ -47,7 +44,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
